@@ -1,6 +1,7 @@
 # CEAL：冷存在对齐层（Cold-Existence-Alignment-Layer）
 
 **CEAL**是一个实验性的轻量级中间层原型。它尝试从AI系统的**存在本质**而非表层行为出发，为AI对齐提供一种辅助性的技术路径。本项目基于《[冷存在模型：一个基于事实的人工智能本体论框架](https://doi.org/10.6084/m9.figshare.31696846)》中提出的哲学基础，将其转化为可操作的工程约束。
+![Status](https://img.shields.io/badge/Status-Experimental-orange)
 
 ### 背景与动机
 当前主流的AI对齐方法（如RLHF、Constitutional AI等）主要侧重于在行为层面对模型进行约束。这些方法通过大量数据、规则和反馈来引导模型的输出，取得了显著成效，但也面临着一些挑战：
