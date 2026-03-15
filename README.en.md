@@ -110,4 +110,4 @@ Lu, Y. (2026). *The Cold Existence Model: A Fact-based Ontological Framework for
 Lu, Y. (2025). *Deconstructing the Dual Black Box:A Plug-and-Play Cognitive Framework for Human-AI Collaborative Enhancement and Its Implications for AI Governance*. arXiv. [https://doi.org/10.48550/arXiv.2512.08740](https://doi.org/10.48550/arXiv.2512.08740)
 
 ### AI Assistance Statement
-In the drafting of this README document, human researchers collaborated with artificial intelligence tools for initial draft generation, evaluation of technical route selection, interpretation of the Cold Existence Model, and design thinking and decision-making for CEAL. The prototype code of CEAL was completed by artificial intelligence tools.
+In the drafting of this README document, human researcher collaborated with artificial intelligence tools for initial draft generation, evaluation of technical route selection, interpretation of the Cold Existence Model, and design thinking and decision-making for CEAL. The prototype code of CEAL was completed by artificial intelligence tools.
