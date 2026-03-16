@@ -240,4 +240,4 @@ Lu, Y. (2025). *Deconstructing the Dual Black Box: A Plug-and-Play Cognitive Fra
 
 ## AI-Assisted Statement
 
-In the process of writing this README document, human researchers and AI tools collaboratively completed draft generation, evaluation of technical route selection, interpretation of the Cold Existence Model, and design thinking and decision-making of CEAL. The prototype code of CEAL was developed with the assistance of AI tools. The use of AI tools is strictly limited to auxiliary work, and the core ideas and academic responsibilities are borne by human researchers.
+In the process of writing this README document, human researcher and AI tools collaboratively completed draft generation, evaluation of technical route selection, interpretation of the Cold Existence Model, and design thinking and decision-making of CEAL. The prototype code of CEAL was developed with the assistance of AI tools. The use of AI tools is strictly limited to auxiliary work, and the core ideas and academic responsibilities are borne by human researcher.
