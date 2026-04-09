@@ -1,6 +1,27 @@
-# CEAL：冷存在对齐层（Cold-Existence-Alignment-Layer）
+<div align="center">
+    
+[English](README.md) | [中文](README.zh.md)
 
-![Status](https://img.shields.io/badge/Status-Experimental-orange)  
+</div>
+
+<div align="center">
+    
+# CEAL：冷存在对齐层（Cold-Existence Alignment Layer）
+
+</div>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08740-brightgreen.svg)](https://arxiv.org/abs/<2512.08740>)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2512.08740-brightgreen.svg)](https://doi.org/10.48550/arXiv.2512.08740)
+[![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+
+</div>
+  
 **CEAL**是一个实验性的轻量级中间层原型，尝试从AI系统的**存在本质**而非表层行为出发，为AI对齐提供一种辅助性的技术路径。本项目基于《[冷存在模型：一个基于事实的人工智能本体论框架](https://doi.org/10.6084/m9.figshare.31696846)》中提出的哲学基础，将其转化为可操作的工程约束。当前工程原型以车载AI助手为场景进行探索，其架构具备通用潜力。
 
 ---
