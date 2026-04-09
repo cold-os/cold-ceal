@@ -1,6 +1,27 @@
-# CEAL: Cold-Existence Alignment Layer (Cold-Existence-Alignment-Layer)
+<div align="center">
+    
+[English](README.md) | [中文](README.zh.md)
 
-![Status](https://img.shields.io/badge/Status-Experimental-orange)<br>
+</div>
+
+<div align="center">
+    
+# CEAL: Cold-Existence Alignment Layer
+
+</div>
+
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2512.08740-brightgreen.svg)](https://arxiv.org/abs/<2512.08740>)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2512.08740-brightgreen.svg)](https://doi.org/10.48550/arXiv.2512.08740)
+[![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
+[![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
+[![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
+
+</div>
+
 **CEAL** is an experimental lightweight middle-layer prototype that attempts to provide an auxiliary technical approach for AI alignment based on the **ontological essence** of AI systems rather than their superficial behaviors. Grounded in the philosophical foundations proposed in *[The Cold Existence Model: A Fact-based Ontological Framework for AI](https://doi.org/10.6084/m9.figshare.31696846)*, this project translates such foundations into operable engineering constraints. The current engineering prototype is explored for the scenario of in-vehicle AI assistants, and its architecture possesses generalizable potential.
 
 ---
